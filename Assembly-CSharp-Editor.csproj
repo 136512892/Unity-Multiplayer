@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C300F3F0-CEC8-BE7F-9B83-51AC04EEA597}</ProjectGuid>
+    <ProjectGuid>{AA532808-B680-4FAB-E38D-965140EBBE8D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -746,31 +746,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{CBE0847D-2EE3-5984-AC66-1659B0ECDA9E}</Project>
+      <Project>{D46A65ED-87AD-D2D3-0493-4CF8807E7B5A}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AssetBundleBrowser.Editor.csproj">
-      <Project>{F48ECA6A-8BF8-5D08-0F5E-3EDE15E4E6D1}</Project>
+      <Project>{AB7FAA75-BC02-FD01-4DEF-9AC6005FEE8B}</Project>
       <Name>Unity.AssetBundleBrowser.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Siccity.GLTFUtility.Editor.csproj">
-      <Project>{18DB8422-17D9-CCE1-C774-042074E651C0}</Project>
+      <Project>{4ED1AA8A-D5C9-1FC9-A227-1AF1B6DCBDA3}</Project>
       <Name>Siccity.GLTFUtility.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Siccity.GLTFUtility.csproj">
-      <Project>{C5C007CB-783C-DBB5-6F3E-5033C54D4C03}</Project>
+      <Project>{BF14010B-AAAE-3F60-6632-A7941CC6D688}</Project>
       <Name>Siccity.GLTFUtility</Name>
     </ProjectReference>
     <ProjectReference Include="ReadyPlayerMe.csproj">
-      <Project>{44EAF238-2A9C-FEDE-C0A8-53FAFE2633F0}</Project>
+      <Project>{CC342EE3-6B17-B8F4-EF3C-65767BFF5822}</Project>
       <Name>ReadyPlayerMe</Name>
     </ProjectReference>
     <ProjectReference Include="ReadyPlayerMe.Editor.csproj">
-      <Project>{242545D0-23F3-AF0D-5D5D-24E64BA19D38}</Project>
+      <Project>{CF9D2E59-77C1-8312-E3B9-46313AFEA23C}</Project>
       <Name>ReadyPlayerMe.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="ReadyPlayerMe.Extras.Editor.csproj">
-      <Project>{43B4F4C8-3A74-93FE-D003-3A93BF9BC911}</Project>
+      <Project>{36024C87-037F-385E-E575-6CF68F35103F}</Project>
       <Name>ReadyPlayerMe.Extras.Editor</Name>
     </ProjectReference>
   </ItemGroup>
