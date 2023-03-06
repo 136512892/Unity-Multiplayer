@@ -1,0 +1,79 @@
+D:\Desktop\Socket\Server\bin\Debug\net6.0\Server.exe
+D:\Desktop\Socket\Server\bin\Debug\net6.0\Server.deps.json
+D:\Desktop\Socket\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Desktop\Socket\Server\bin\Debug\net6.0\Server.dll
+D:\Desktop\Socket\Server\bin\Debug\net6.0\Server.pdb
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.dll
+D:\Desktop\Socket\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.pdb
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Desktop\Socket\Server\obj\Debug\net6.0\ref\Server.dll
+D:\Desktop\Socket\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\admin\Desktop\Socket\Server\bin\Debug\net6.0\Server.exe
+C:\Users\admin\Desktop\Socket\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\admin\Desktop\Socket\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\admin\Desktop\Socket\Server\bin\Debug\net6.0\Server.dll
+C:\Users\admin\Desktop\Socket\Server\bin\Debug\net6.0\ref\Server.dll
+C:\Users\admin\Desktop\Socket\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.dll
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\admin\Desktop\Socket\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\bin\Debug\net6.0\Server.exe
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\bin\Debug\net6.0\Server.dll
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\bin\Debug\net6.0\ref\Server.dll
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.dll
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\admin\Desktop\Socket 通用框架\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\Users\admin\Desktop\Server\Server\bin\Debug\net6.0\Server.exe
+C:\Users\admin\Desktop\Server\Server\bin\Debug\net6.0\Server.deps.json
+C:\Users\admin\Desktop\Server\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\Users\admin\Desktop\Server\Server\bin\Debug\net6.0\Server.dll
+C:\Users\admin\Desktop\Server\Server\bin\Debug\net6.0\ref\Server.dll
+C:\Users\admin\Desktop\Server\Server\bin\Debug\net6.0\Server.pdb
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.dll
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\ref\Server.dll
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.pdb
+C:\Users\admin\Desktop\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.dll
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\ref\Server.dll
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.pdb
+C:\UnityProjects\HW_Multiplayer\Server\Server\bin\Debug\net6.0\Server.exe
+C:\UnityProjects\HW_Multiplayer\Server\Server\bin\Debug\net6.0\Server.deps.json
+C:\UnityProjects\HW_Multiplayer\Server\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+C:\UnityProjects\HW_Multiplayer\Server\Server\bin\Debug\net6.0\Server.dll
+C:\UnityProjects\HW_Multiplayer\Server\Server\bin\Debug\net6.0\ref\Server.dll
+C:\UnityProjects\HW_Multiplayer\Server\Server\bin\Debug\net6.0\Server.pdb
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.csproj.CopyComplete
+C:\UnityProjects\HW_Multiplayer\Server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache

@@ -1,0 +1,331 @@
+[
+{
+	"name":"Aim System",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"瞄准交互系统",
+	"releaseDate":"2022.07.20"
+},
+{
+	"name":"Animation Sampler",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"动画采样器",
+	"releaseDate":"2022.06.01"
+},
+{
+	"name":"Area Listener",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"区域监听器，可用于模拟触发器的OnEnter、OnStay、OnExit事件监听。",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/127656201?spm=1001.2014.3001.5501",
+	"dependencies":[],
+	"releaseDate":"2022.11.02"
+},
+{
+	"name":"Assets Tool",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"资产依赖、引用查找工具",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"Avatar Camera Controller",
+	"version":"1.1.0",
+	"author":"CoderZ",
+	"description":"第三人称相机控制\r\n增加第一人称相机控制，支持第一人称、第三人称控制模式切换",
+	"documentationUrl":"https://coderz.blog.csdn.net/article/details/129220861?spm=1001.2014.3001.5502",
+	"releaseDate":"2023.02.25"
+},
+{
+	"name":"Avatar Camera Controller",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"第三人称相机控制",
+	"releaseDate":"2022.08.11"
+},
+{
+	"name":"Avatar Controller",
+	"version":"2.0.0",
+	"author":"CoderZ",
+	"description":"Avatar控制器，适用于第三人称控制(Character Controller)",
+	"releaseDate":"2023.02.11"
+},
+{
+	"name":"Avatar Controller",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Avatar控制器，适用于第三人称控制",
+	"releaseDate":"2022.07.03"
+},
+{
+	"name":"Avatar FootIK",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Avatar脚部IK",
+	"releaseDate":"2023.02.22"
+},
+{
+	"name":"Avatar Head Tracker",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Avatar角色头部跟随视角转动",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/128957137?spm=1001.2014.3001.5501",
+	"releaseDate":"2023.02.10"
+},
+{
+	"name":"Batch Build",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"批量打包工具",
+	"releaseDate":"2022.06.02"
+},
+{
+	"name":"BlendShape Driver",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"驱动BlendShape的工具",
+	"releaseDate":"2022.08.23"
+},
+{
+	"name":"Bounds Tool",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"边界盒工具\r\n1.Auto BoxCollider 添加BoxCollider组件并根据子物体自动适配大小\r\n2.Auto ModelCenter 修正物体坐标与其模型实际所在位置存在偏差问题",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"Calendar",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"日历工具",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/128648428?spm=1001.2014.3001.5501",
+	"releaseDate":"2023.01.11"
+},
+{
+	"name":"Circle Layout Group",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"圆形自动布局组件",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/129064359?spm=1001.2014.3001.5501",
+	"releaseDate":"2023.02.16"
+},
+{
+	"name":"Color Property Drawer",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"自定义Color属性绘制，使Color编辑更加便捷",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/129094605?spm=1001.2014.3001.5501",
+	"releaseDate":"2023.02.17"
+},
+{
+	"name":"Face2Camera",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"面向相机组件",
+	"releaseDate":"2022.06.23"
+},
+{
+	"name":"First Person Controller",
+	"version":"1.0.0",
+	"releaseDate":"2022.11.03"
+},
+{
+	"name":"Free Camera Controller",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"上帝视角/自由视角 相机控制脚本\r\n同时支持Input System Package(New)和Input Manager(Old)新、旧两种输入系统",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/125150480?spm=1001.2014.3001.5501",
+	"releaseDate":"2022.06.06"
+},
+{
+	"name":"GameObject Filter",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Hierarchy窗口物体筛选工具",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"GameObject Replacer",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"物体替换器",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"LanHu",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"蓝湖UI界面搭建工具",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"LOD Deleter",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"批量删除场景中的LOD Group组件，删除后只保留最高层次细节的物体",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"Material Duplicator",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"材质复制机",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"Mesh Tool",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"网格合并、网格提取工具",
+	"releaseDate":"2022.07.07"
+},
+{
+	"name":"Mini Map",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"小地图功能",
+	"releaseDate":"2022.07.02",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/125577392?spm=1001.2014.3001.5501"
+},
+{
+	"name":"Name Regular",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"规则命名工具",
+	"releaseDate":"2022.12.14"
+},
+{
+	"name":"POI",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"POI 兴趣点/信息点",
+	"releaseDate":"2022.06.20"
+},
+{
+	"name":"Proto Editor",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Protobuf通信协议类编辑器",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/129260623?spm=1001.2014.3001.5501",
+	"releaseDate":"2023.02.28"
+},
+{
+	"name":"Question",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"问题系统",
+	"releaseDate":"2022.07.20",
+	"documentationUrl":"https://coderz.blog.csdn.net/article/details/125045409?spm=1001.2014.3001.5502"
+},
+{
+	"name":"RawImage Model View",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"RawImage展示3D模型，支持拖拽旋转模型",
+	"releaseDate":"2022.06.03"
+},
+{
+	"name":"Roam Camera Controller",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"漫游视角 相机控制脚本\r\n同时支持Input System Package(New)和Input Manager(Old)新、旧两种输入系统",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/125164161?spm=1001.2014.3001.5501",
+	"releaseDate":"2022.06.07"
+},
+{
+	"name":"Rotater",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"旋转器",
+	"releaseDate":"2022.06.24"
+},
+{
+	"name":"RSA Crypto",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"RSA算法加密、签名工具",
+	"releaseDate":"2022.07.19",
+	"documentationUrl":"https://coderz.blog.csdn.net/article/details/125874937?spm=1001.2014.3001.5502"
+},
+{
+	"name":"Score",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"分数系统",
+	"releaseDate":"2022.07.20",
+	"documentationUrl":"https://coderz.blog.csdn.net/article/details/124960835?spm=1001.2014.3001.5502"
+},
+{
+	"name":"Socket",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Socket TCP 服务端、客户端通用架构",
+	"releaseDate":"2022.07.28"
+},
+{
+	"name":"Statistics",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"1.Mesh Statistics: 统计Mesh网格的点面数量、占用内存大小\r\n2.Texture Statistics: 统计各类Texture贴图数量、占用内存大小",
+	"releaseDate":"2022.06.24"
+},
+{
+	"name":"Switchable Object",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"可开关物体",
+	"releaseDate":"2022.07.20"
+},
+{
+	"name":"Target Frame",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"使UI框动态包住三维物体",
+	"releaseDate":"2023.02.06",
+	"documentationUrl":"https://blog.csdn.net/qq_42139931/article/details/128901121?spm=1001.2014.3001.5501"
+},
+{
+	"name":"Texture Filter",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"各类Texture贴图资源筛选工具",
+	"releaseDate":"2022.06.24",
+	"documentationUrl":"https://coderz.blog.csdn.net/article/details/125458137?spm=1001.2014.3001.5502"
+},
+{
+	"name":"Text Background Adapter",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Text背景自适配工具",
+	"releaseDate":"2022.12.09"
+},
+{
+	"name":"Toggle Animation",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"UI动效 - Toggle动画",
+	"releaseDate":"2023.02.18"
+},
+{
+	"name":"Transform Anchor",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"将坐标锚定在距目标物体一定偏移量的位置上",
+	"releaseDate":"2022.06.23"
+},
+{
+	"name":"UI Dragable Object",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"可拖拽UI物体",
+	"releaseDate":"2022.06.22"
+},
+{
+	"name":"UI Selector",
+	"version":"1.0.0",
+	"author":"CoderZ",
+	"description":"Scene窗口UI元素选择工具",
+	"releaseDate":"2022.06.03"
+}
+]

@@ -1,0 +1,11 @@
+message AvatarProperty
+{
+    required string userId = 1;
+    required float posX = 2;
+    required float posY = 3;
+    required float posZ = 4;
+    required float rotX = 5;
+    required float rotY = 6;
+    required float rotZ = 7;
+    required float speed = 8;
+}
